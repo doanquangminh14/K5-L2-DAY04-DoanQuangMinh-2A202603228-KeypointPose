@@ -1,0 +1,65 @@
+{
+ "mssv": "2A202603228",
+ "ten": "DoanQuangMinh",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "minhdoan",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000150500.jpg",
+  "000000294329.jpg",
+  "000000390585.jpg",
+  "000000558066.jpg",
+  "000000564304.jpg",
+  "000000311497.jpg",
+  "000000521817.jpg",
+  "000000571665.jpg",
+  "000000123544.jpg",
+  "000000311300.jpg",
+  "000000572411.jpg",
+  "000000542160.jpg"
+ ],
+ "faces": [
+  "face_141135.jpg",
+  "face_232598.jpg",
+  "face_559185.jpg",
+  "face_356144.jpg",
+  "face_442231.jpg",
+  "face_81239.jpg",
+  "face_296767.jpg",
+  "face_333134.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "persons-DoanQuangMinh"
+  },
+  "faces": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "faces-DoanQuangMinh"
+  },
+  "persons-extra": {
+   "task_id": 15,
+   "job_id": 15,
+   "task_name": "persons-extra-DoanQuangMinh"
+  },
+  "faces-extra": {
+   "task_id": 16,
+   "job_id": 16,
+   "task_name": "faces-extra-DoanQuangMinh"
+  }
+ },
+ "persons_extra": [
+  "000000073537.jpg",
+  "000000188948.jpg",
+  "000000517702.jpg"
+ ],
+ "faces_extra": [
+  "face_102517.jpg",
+  "face_296417.jpg",
+  "face_379585.jpg",
+  "face_494518.jpg",
+  "face_507166.jpg"
+ ]
+}
